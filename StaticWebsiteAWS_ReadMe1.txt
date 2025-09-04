@@ -1,4 +1,4 @@
-Static Website Hosting on AWS (South Africa Small Business Demo)
+Static Website Hosting on AWS 
 ==================================================================
 
  Project Overview
